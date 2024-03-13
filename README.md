@@ -1,5 +1,6 @@
 # Lottery-DApp
 # Note:- To run this project you need to have metamask wallet
+# Access the site:- https://lotterydapp.web.app/
 Welcome to the Lottery DApp! Our DApp is a decentralized lottery system that allows you to participate in a fun and exciting lottery game using Ethereum. Here's how it works: The lottery is managed by a designated manager. Players can enter the lottery by paying a small entry fee of 0.001 ETH. Once the entry period is over, the manager will randomly select a winner from the pool of participants. The lucky winner will be able to claim the prize by clicking on the "Claim Reward" button. It's a fair and transparent way to test your luck and potentially win big!
 1. ![image](https://github.com/RishabhDimri/Lottery-DApp/assets/92168403/bdd070d2-d360-42a3-8acd-767a5207a3a8)
 
